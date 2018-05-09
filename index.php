@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/clothing/baby-kids-shoes/5438_1045804_1045805");
+header("Location: https://www.walmart.com/browse/sports-outdoors/air-beds-sleeping-accessories/4125_546956_4128_1075006");
 die();
 ?>

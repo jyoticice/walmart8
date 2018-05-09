@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/jewelry/promise-rings/3891_540912_1228412");
+header("Location: https://www.walmart.com/browse/clothing/baby-kids-shoes/5438_1045804_1045805");
 die();
 ?>
